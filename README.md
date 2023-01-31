@@ -17,5 +17,5 @@ All the files <em>( maybe docs in the future)</em> with all the data sets extrac
 Extraction results in degreeOut = 20 OR degreeOut = 0 and I don't know yet if it's the Ẁ̸̱e̵̞̋b̶͇̈ ̴̻̔A̵͗ͅP̴̦̈I̶͎͝ ̴͔̋S̴̞͛p̴̛͉ǫ̷͐t̸͚̀i̴̡͆f̵̦̄ý̶̢  recommmendation algo OR code need debug
 Sorry for Zalgo hehehe (not ready yet)
 
-![prev](prev2.png)
+![prev](prev.png)
 
