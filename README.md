@@ -5,8 +5,7 @@ Ȉ̵̪m̴̰̓p̶͔̓o̵̞͠r̵̠̀t̴̮͗_̶̙͛N̴̰̓a̷͚͘t̴͍̅i̶̘̾v̶
 
 
 
-All the files <em>( maybe docs in the future)</em> with all the data sets extracted via Ẁ̸̱e̵̞̋b̶͇̈ ̴̻̔A̵͗ͅP̴̦̈I̶͎͝ ̴͔̋S̴̞͛p̴̛͉ǫ̷͐t̸͚̀i̴̡͆f̵̦̄ý̶̢ for vizualization : h̶t̶t̶p̷s̷:̷/̷/̶d̸e̷v̷e̷l̶o̶p̷e̸r̶.̶S̶̴̷̸̴̞͛p̴̴̵̷̶̛͉ǫ̵̷̴̸̸͐t̶̸̸̵̴͚̀i̸̴̴̴̵̡͆f̴̵̶̸̸̦̄ý̵̶̵̸̷̢.̶c̷o̵m̴/̴d̴a̶s̶h̵b̴o̸a̸r̷d̴ ̵
-
+All the files <em>( maybe docs in the future)</em> with all the data sets extracted via Ẁ̸̱e̵̞̋b̶͇̈ ̴̻̔A̵͗ͅP̴̦̈I̶͎͝ ̴͔̋S̴̞͛p̴̛͉ǫ̷͐t̸͚̀i̴̡͆f̵̦̄ý̶̢ for vizualization : https://developer.s̷̻̒p̸͔͋o̶̯̐t̵̛̝i̵͙͒f̴̧̿y̶̦̾.com/
 "̴i̷n̷t̶_̶N̸o̵d̴e̸s̴"̸
 ̷<̷b̴r̷>̴"̶i̵n̴t̸_̸E̵d̶g̷e̵s̶"̷ ̸t̴y̶p̸e̵ ̶D̵i̵r̶e̴c̸t̷e̷d̶
 ̶≮b̷r̸>̵"̴i̴n̸t̵_̶F̵o̵l̵l̴o̶w̴e̵r̴s̵"̴
