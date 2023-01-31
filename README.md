@@ -1,7 +1,7 @@
 
 ## Data_viz
 
-Import_Native & Working_Spatialisation & Export_PNGs
+Import_Native .gexf format for Gephi
 
 
 
@@ -18,3 +18,6 @@ All the files <em>( maybe docs in the future)</em> with all the data sets extrac
 Extraction results in degreeOut = 20 OR degreeOut = 0 and I don't know yet if it's the Spotify recommmendation algo OR code need debug
 
 
+![aya](aya.png)
+<br> ![entourloop](entourloop.png)
+<br> ![rone](rone.png)
